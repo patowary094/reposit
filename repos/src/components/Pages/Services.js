@@ -17,7 +17,7 @@ function Services() {
    </div>
    <div className="carousel-inner">
      <div className="carousel-item active">
-       <img src={pic3} className="d-block w-100" alt="logo"/>
+       <img src={pic7} className="d-block w-100" alt="logo"/>
        <div className="carousel-caption d-none d-md-block">
          <h5>The first Content</h5>
          <p>Some representative placeholder content for the first slide.</p>
@@ -31,7 +31,7 @@ function Services() {
        </div>
      </div>
      <div className="carousel-item">
-       <img src={pic7} className="d-block w-100" alt="erorrrrr"/>
+       <img src={pic3} className="d-block w-100" alt="erorrrrr"/>
        <div className="carousel-caption d-none d-md-block">
          <h5>Third Content</h5>
          <p>Some representative placeholder content for the third slide.</p>

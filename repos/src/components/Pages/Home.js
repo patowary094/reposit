@@ -13,10 +13,9 @@ function Home() {
               <div className="underline mx-auto my-2"></div>
               <p className="para3">
                 Inspired by the great examples on this list, we recently reworked our
-                own About Us page. Perhaps not quite as amazing or inspiring as the below examples,
-                but we think we’re at least a bit closer.
+                closer.
               </p>
-              <Link to="./Home" className="btn btn-success mx-3">Sign in</Link>
+              <Link to="./Home" className="btn btn-success mx-3 my-2">Sign in</Link>
               <Link to="./Home" className="btn btn-success">Log in</Link>
             </div>
           </div>
@@ -31,7 +30,7 @@ function Home() {
               <div className="underline mx-auto"></div>
             </div>
             <div className="col-md-4 my-3">
-              <div className="card shadow">
+              <div className="cardy shadow">
                 
                 <div className="card-body">
                   <h6 className="miniheading">Our Team</h6>
@@ -45,7 +44,7 @@ function Home() {
 
 
             <div className="col-md-4 my-3">
-              <div className="card shadow">
+              <div className="cardy shadow">
               
                 <div className="card-body">
                   <h6 className="miniheading">Our Models</h6>
@@ -58,7 +57,7 @@ function Home() {
             </div>
 
             <div className="col-md-4 my-3">
-              <div className="card shadow">
+              <div className="cardy shadow">
               
                 <div className="card-body">
                   <h6 className="miniheading">Our Task</h6>
@@ -71,7 +70,7 @@ function Home() {
             </div>
 
             <div className="col-md-4 my-3">
-              <div className="card shadow">
+              <div className="cardy shadow">
               
                 <div className="card-body">
                   <h6 className="miniheading">Our Views</h6>
@@ -84,7 +83,7 @@ function Home() {
             </div>
 
             <div className="col-md-4 my-3">
-              <div className="card shadow">
+              <div className="cardy shadow">
               
                 <div className="card-body">
                   <h6 className="miniheading">Our Purpose</h6>
